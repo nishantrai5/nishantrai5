@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nishantrai5(Nishant Rai)
+- 👀 Computers automatically doing things just gets me so excited
+- 🌱 I’m currently learning Full Stack Web Development
+- 💞️ I’m looking to collaborate on a system to help hikers in India
+- 📫 Reach me on Github
